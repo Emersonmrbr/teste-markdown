@@ -33,3 +33,16 @@ git clone git@github.com:Emersonmrbr/teste-markdown.git
 ```pwsh
 cd nome-do-repositorio
 ```
+
+**Imagem local**: ![Imagem do projeto local](./imagens/LogoCompleto@4x.png)
+
+**Imagem GitHub**: ![Imagem do GitHub](https://github.com/Emersonmrbr/teste-markdown/blob/main/imagens/LogoCompleto@4x.png?raw=true)
+
+## Imagem com HTML
+
+<img src="https://raw.github.com/Emersonmrbr/teste-markdown/main/imagens/LogoCompleto@4x.png" alt="Imagem do projeto" width="120">
+
+####
+
+
+> Exemplo de como formatar imagem com html
