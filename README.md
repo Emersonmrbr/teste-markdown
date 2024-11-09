@@ -5,14 +5,14 @@ Este projeto foi clonado do **GitHub** e é um _exemplo de como editar_o arquivo
 
 ## Funcionalidades
 
-- [ x ] Clonar o respositório
-- [ ] Editar o arquivo README.md
-- [ ] Enviar alterações para GitHub
+- [x] Clonar o respositório
+- [] Editar o arquivo README.md
+- [] Enviar alterações para GitHub
 
 ## Funcionalidades
-1. [ x ] Clonar o respositório
-2. [ ] Editar o arquivo README.md
-3. [ ] Enviar alterações para GitHub
+1. [x] Clonar o respositório
+2. [] Editar o arquivo README.md
+3. [] Enviar alterações para GitHub
 
 ## Tabela de funcionalidades
 | Funcionalidade        | Descrição                     | Status            |
